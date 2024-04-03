@@ -2,7 +2,6 @@ import { Component, ViewChild, ElementRef } from '@angular/core';
 import {
   FormBuilder,
   FormGroup,
-  NgForm,
   ReactiveFormsModule,
   Validators,
 } from '@angular/forms';
